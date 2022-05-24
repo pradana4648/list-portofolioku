@@ -11,6 +11,8 @@ Android
 - [Your Tracker](https://github.com/pradana4648/income_expense_tracker_app)
 - [Portal Berita Indonesia](https://github.com/pradana4648/portal_berita_indonesia)
 
+Desktop
+- [Pariwisata Entry Data](https://github.com/pradana4648/pariwisata-desktop-application)
 
 **Masih dalam pengembangan**
 - [ ] Resep Masakan Internasional
